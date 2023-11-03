@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HolaMundo
+comment0.text=\ Este\ es\ un\ comentario\ para\ \r\n\ varias\ lineas\ sin\ afectar\ el\r\n\ codigo.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
